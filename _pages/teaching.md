@@ -1,15 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Teaching materials and course information.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page will list teaching activities, course materials, schedules, and resources.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Current teaching information is maintained here:
 
-{% include courses.liquid %}
+- [Teaching page](https://exultant-desk-092.notion.site/d1f22b1659d344e4b1d03d8e5b71b069?v=77953936d5274e00aafffaba40e6df08)
