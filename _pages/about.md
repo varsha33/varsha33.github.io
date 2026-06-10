@@ -12,7 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # homepage uses the full bibliography below instead
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -31,3 +31,11 @@ I am a postdoctoral researcher at Saarland University working with [Vera Demberg
 My research interests include multimodal interaction, gesture, discourse and language modeling, affective computing, and human-centered machine learning.
 
 This page is a first draft and will be updated with a fuller biography, research statement, and contact details.
+
+## Publications
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
