@@ -12,7 +12,4 @@ publication:
 peer_reviewed: false
 open_access: true
 featured: false
-links:
-  - type: source
-    url: https://arxiv.org/abs/2106.15453
 ---

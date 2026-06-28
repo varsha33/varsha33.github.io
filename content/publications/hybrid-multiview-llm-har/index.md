@@ -13,7 +13,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: true
-links:
-  - type: source
-    url: https://eurekamag.com/research/101/027/101027987.php
 ---

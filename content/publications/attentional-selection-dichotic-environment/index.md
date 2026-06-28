@@ -13,7 +13,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: false
-links:
-  - type: source
-    url: https://doi.org/10.1109/INDICON.2016.7838885
 ---

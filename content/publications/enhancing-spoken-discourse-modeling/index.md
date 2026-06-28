@@ -17,7 +17,4 @@ awards:
   - name: "Oral Presentation"
     level: selected
     note: "Top 8%"
-links:
-  - type: source
-    url: https://aclanthology.org/2025.acl-long.886/
 ---

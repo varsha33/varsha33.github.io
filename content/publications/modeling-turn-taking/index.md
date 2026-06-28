@@ -13,7 +13,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: true
-links:
-  - type: source
-    url: https://aclanthology.org/2026.findings-eacl.106/
 ---

@@ -12,7 +12,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: false
-links:
-  - type: source
-    url: https://dblp.org/rec/conf/percom/ShiSO22
 ---

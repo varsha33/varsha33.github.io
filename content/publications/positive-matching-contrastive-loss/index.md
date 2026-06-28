@@ -11,7 +11,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: false
-links:
-  - type: source
-    url: https://arxiv.org/abs/2303.04896
 ---

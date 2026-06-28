@@ -14,7 +14,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: true
-links:
-  - type: source
-    url: https://doi.org/10.1145/3746059.3747705
 ---

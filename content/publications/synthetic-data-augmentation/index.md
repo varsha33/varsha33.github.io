@@ -14,7 +14,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: true
-links:
-  - type: source
-    url: https://aclanthology.org/2025.sigdial-1.13/
 ---

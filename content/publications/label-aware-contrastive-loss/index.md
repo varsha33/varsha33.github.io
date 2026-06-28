@@ -11,7 +11,4 @@ publication:
 peer_reviewed: true
 open_access: true
 featured: false
-links:
-  - type: source
-    url: https://aclanthology.org/2021.emnlp-main.359/
 ---
