@@ -10,7 +10,16 @@ sections:
     id: home
     content:
       username: me
-      text: ''
+      text: |-
+        I am a postdoctoral researcher at Saarland University. My research focuses on multimodal language understanding, gesture and discourse modeling, affective computing, and human-centered machine learning.
+
+        I am particularly interested in how verbal and non-verbal signals interact, how multimodal systems reason about people and behavior, and how to build language and vision-language models that are both more grounded and more socially aware.
+
+        ### News
+
+        - **June 25, 2026**: Gave a talk at the RTG Neuroexplicit group: *Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors*.
+        - **May 28, 2026**: New preprint out: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608).
+        - **May 28, 2026**: New preprint out: [*MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization*](https://arxiv.org/abs/2605.29951).
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -27,22 +36,11 @@ sections:
       avatar:
         size: medium
         shape: rounded
-  - block: markdown
-    id: news
-    content:
-      title: 'News'
-      subtitle: ''
-      text: |-
-        - **June 25, 2026**: Gave a talk at the RTG Neuroexplicit group: *Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors*.
-        - **May 28, 2026**: New preprint out: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608).
-        - **May 28, 2026**: New preprint out: [*MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization*](https://arxiv.org/abs/2605.29951).
-    design:
-      columns: '1'
   - block: collection
     id: publications
     content:
       title: 'Publications'
-      text: ''
+      text: 'Selected publications. For a fuller list, see my [Google Scholar](https://scholar.google.com/citations?user=Pv4qSeEAAAAJ&hl=en).'
       count: 0
       filters:
         folders:

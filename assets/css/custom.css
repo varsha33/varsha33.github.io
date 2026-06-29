@@ -1,0 +1,59 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.7;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.02em;
+}
+
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+main section,
+.home-section {
+  padding-top: 2.75rem;
+  padding-bottom: 2.75rem;
+}
+
+main .container,
+section .container {
+  max-width: 1060px;
+}
+
+.navbar a,
+header a {
+  font-weight: 500;
+}
+
+#home h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+#home ul {
+  margin-bottom: 0;
+}
+
+#publications img {
+  border-radius: 0.75rem;
+  object-fit: cover;
+}
+
+#publications .btn {
+  border-radius: 999px;
+}
+
+#publications .stream-item,
+#publications .pub-list-item,
+#talks ul li,
+#teaching ul li {
+  margin-bottom: 1rem;
+}
