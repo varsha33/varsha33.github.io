@@ -44,31 +44,31 @@ sections:
           <div class="varsha-publication-year">2026</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/semantic-motion-anchors/">Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures</a></p>
+            <p class="varsha-publication-title">Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures</p>
             <p class="varsha-publication-authors">Varsha Suresh, Mohammad Mahdi Abootorabi, Mohamed Salman, M Hamza Mughal, Christian Theobalt, Ashwin Ram, Jürgen Steimle, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2605.30608">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/muphi/">MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization</a></p>
+            <p class="varsha-publication-title">MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization</p>
             <p class="varsha-publication-authors">Anisha Saha, Varsha Suresh, Teodora Kamova, Sophia Wiedmann, Timothy Hospedales, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2605.29951">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/generation-step-aware-framework/">Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech-Text Models</a></p>
+            <p class="varsha-publication-title">Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech-Text Models</p>
             <p class="varsha-publication-authors">Toshiki Nakai, Varsha Suresh, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2601.17387">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/system-mediated-attention-imbalances/">System-Mediated Attention Imbalances Make Vision-Language Models Say Yes</a></p>
+            <p class="varsha-publication-title">System-Mediated Attention Imbalances Make Vision-Language Models Say Yes</p>
             <p class="varsha-publication-authors">Tsan Tsai Chan, Varsha Suresh, Anisha Saha, Michael Hahn, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2601.12430">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/modeling-turn-taking/">Modeling Turn-Taking with Semantically Informed Gestures</a></p>
+            <p class="varsha-publication-title">Modeling Turn-Taking with Semantically Informed Gestures</p>
             <p class="varsha-publication-authors">Varsha Suresh, M Hamza Mughal, Christian Theobalt, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>Findings of the Association for Computational Linguistics: EACL</em>, 2026.</p>
           </div>
@@ -76,31 +76,31 @@ sections:
           <div class="varsha-publication-year">2025</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/enhancing-spoken-discourse-modeling/">Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues</a></p>
+            <p class="varsha-publication-title">Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues</p>
             <p class="varsha-publication-authors">Varsha Suresh, M Hamza Mughal, Christian Theobalt, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>ACL</em>, 2025. Oral presentation (Top 8%).</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/gesturecoach/">GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations</a></p>
+            <p class="varsha-publication-title">GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations</p>
             <p class="varsha-publication-authors">Ashwin Ram, Varsha Suresh, Artin Saberpour Abadian, Vera Demberg, Jürgen Steimle</p>
             <p class="varsha-publication-venue"><em>UIST</em>, 2025.</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/hybrid-multiview-llm-har/">Hybrid Multi-view Approach Towards Augmenting Large Language Models for Human Activity Recognition</a></p>
+            <p class="varsha-publication-title">Hybrid Multi-view Approach Towards Augmenting Large Language Models for Human Activity Recognition</p>
             <p class="varsha-publication-authors">Suman Bhoi, Varsha Suresh, Hsu Wynne, Lee Mong Li</p>
             <p class="varsha-publication-venue"><em>ECAI</em>, 2025.</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/synthetic-data-augmentation/">Synthetic Data Augmentation for Cross-domain Implicit Discourse Relation Recognition</a></p>
+            <p class="varsha-publication-title">Synthetic Data Augmentation for Cross-domain Implicit Discourse Relation Recognition</p>
             <p class="varsha-publication-authors">Frances Yung, Varsha Suresh, Zaynab Reza, Mansoor Ahmad, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>SIGDial</em>, 2025.</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/mustreason/">MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection</a></p>
+            <p class="varsha-publication-title">MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection</p>
             <p class="varsha-publication-authors">Anisha Saha, Varsha Suresh, Timothy Hospedales, Vera Demberg</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2510.23727">arXiv</a></p>
           </div>
@@ -108,7 +108,7 @@ sections:
           <div class="varsha-publication-year">2024</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/adapter-based-unified-model/">An Adapter-Based Unified Model for Multiple Spoken Language Processing Tasks</a></p>
+            <p class="varsha-publication-title">An Adapter-Based Unified Model for Multiple Spoken Language Processing Tasks</p>
             <p class="varsha-publication-authors">Varsha Suresh, Salah Aït-Mokhtar, Caroline Brun, Ioan Calapodescu</p>
             <p class="varsha-publication-venue"><em>ICASSP</em>, 2024.</p>
           </div>
@@ -116,7 +116,7 @@ sections:
           <div class="varsha-publication-year">2023</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/domain-generalizability-fer/">Critically examining the Domain Generalizability of Facial Expression Recognition models</a></p>
+            <p class="varsha-publication-title">Critically examining the Domain Generalizability of Facial Expression Recognition models</p>
             <p class="varsha-publication-authors">Varsha Suresh, Gerard Yeo, Desmond C. Ong</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2023. <a href="https://arxiv.org/abs/2106.15453">arXiv</a></p>
           </div>
@@ -124,19 +124,19 @@ sections:
           <div class="varsha-publication-year">2022</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/wrist-worn-change-point/">Shape-Based Conditional Neural Field for Wrist-Worn Change-Point Detection</a></p>
+            <p class="varsha-publication-title">Shape-Based Conditional Neural Field for Wrist-Worn Change-Point Detection</p>
             <p class="varsha-publication-authors">Yuang Shi, Varsha Suresh, Ooi Wei Tsang</p>
             <p class="varsha-publication-venue"><em>PerCom Workshops</em>, 2022.</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/positive-matching-contrastive-loss/">Using Positive Matching Contrastive Loss with Facial Action Units to mitigate bias in Facial Expression Recognition</a></p>
+            <p class="varsha-publication-title">Using Positive Matching Contrastive Loss with Facial Action Units to mitigate bias in Facial Expression Recognition</p>
             <p class="varsha-publication-authors">Varsha Suresh, Desmond C. Ong</p>
             <p class="varsha-publication-venue"><em>ACII</em>, 2022.</p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/context-dependent-deep-learning/">Context-Dependent Deep Learning for Affective Computing</a></p>
+            <p class="varsha-publication-title">Context-Dependent Deep Learning for Affective Computing</p>
             <p class="varsha-publication-authors">Varsha Suresh</p>
             <p class="varsha-publication-venue"><em>ACII Workshops and Demos</em>, 2022.</p>
           </div>
@@ -144,19 +144,19 @@ sections:
           <div class="varsha-publication-year">2021</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/knowledge-embedded-attention/">Using knowledge-embedded attention to augment pre-trained language models for fine-grained emotion recognition</a></p>
+            <p class="varsha-publication-title">Using knowledge-embedded attention to augment pre-trained language models for fine-grained emotion recognition</p>
             <p class="varsha-publication-authors">Varsha Suresh, Desmond C. Ong</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2021. <a href="https://arxiv.org/abs/2108.00194">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/domain-adaptation-fer/">A systematic evaluation of domain adaptation in facial expression recognition</a></p>
+            <p class="varsha-publication-title">A systematic evaluation of domain adaptation in facial expression recognition</p>
             <p class="varsha-publication-authors">Yan San Kong, Varsha Suresh, Jonathan Soh, Desmond C. Ong</p>
             <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2021. <a href="https://arxiv.org/abs/2106.15453">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/label-aware-contrastive-loss/">Not all negatives are equal: Label-aware contrastive loss for fine-grained text classification</a></p>
+            <p class="varsha-publication-title">Not all negatives are equal: Label-aware contrastive loss for fine-grained text classification</p>
             <p class="varsha-publication-authors">Varsha Suresh, Desmond C. Ong</p>
             <p class="varsha-publication-venue"><em>EMNLP</em>, 2021.</p>
           </div>
@@ -164,7 +164,7 @@ sections:
           <div class="varsha-publication-year">2016</div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="/publications/attentional-selection-dichotic-environment/">A novel technique for identifying attentional selection in a dichotic environment</a></p>
+            <p class="varsha-publication-title">A novel technique for identifying attentional selection in a dichotic environment</p>
             <p class="varsha-publication-authors">Priya Shree, Piyush Swami, Varsha Suresh, Tapan Kumar Gandhi</p>
             <p class="varsha-publication-venue"><em>INDICON</em>, 2016.</p>
           </div>
