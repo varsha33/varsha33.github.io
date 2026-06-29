@@ -42,81 +42,45 @@ header a {
   margin-bottom: 0;
 }
 
-#publications .pub-list-item {
-  margin-bottom: 1.75rem;
+#publications .section-subheading {
+  max-width: 52rem;
 }
 
-.varsha-pub-item {
-  display: grid;
-  grid-template-columns: minmax(0, 220px) minmax(0, 1fr);
-  gap: 1.25rem;
-  align-items: start;
+.varsha-publication-list {
+  margin-top: 1.5rem;
 }
 
-.varsha-pub-no-image {
-  grid-template-columns: minmax(0, 1fr);
-}
-
-.varsha-pub-thumb {
-  width: 220px;
-}
-
-.varsha-pub-thumb img {
-  width: 220px;
-  height: 145px;
-  object-fit: cover;
-  border-radius: 0.85rem;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-}
-
-.varsha-pub-title {
-  margin: 0 0 0.45rem;
-  font-size: 1.55rem;
-  line-height: 1.25;
+.varsha-publication-year {
+  margin-top: 1.85rem;
+  margin-bottom: 0.9rem;
+  font-size: 1.35rem;
   font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
-.varsha-pub-title a {
-  text-decoration: none;
+.varsha-publication-entry {
+  margin-bottom: 1.1rem;
 }
 
-.varsha-pub-authors {
-  margin-bottom: 0.45rem;
-  font-size: 1.25rem;
+.varsha-publication-title {
+  margin: 0 0 0.2rem;
+  font-size: 1.14rem;
+  font-weight: 600;
+  line-height: 1.45;
 }
 
-.varsha-pub-venue {
-  margin-bottom: 0.85rem;
-  font-size: 1.15rem;
+.varsha-publication-authors,
+.varsha-publication-venue {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
-.varsha-pub-year {
-  margin-left: 0.25rem;
-}
-
-.varsha-pub-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.65rem;
-}
-
-.varsha-pub-links .hb-attachment-link {
-  border-radius: 0.8rem;
+.varsha-publication-venue {
+  color: rgba(0, 0, 0, 0.72);
 }
 
 #talks ul li,
 #teaching ul li {
   margin-bottom: 1rem;
-}
-
-@media (max-width: 768px) {
-  .varsha-pub-item {
-    grid-template-columns: minmax(0, 1fr);
-  }
-
-  .varsha-pub-thumb,
-  .varsha-pub-thumb img {
-    width: 100%;
-    height: auto;
-  }
 }
