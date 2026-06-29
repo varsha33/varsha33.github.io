@@ -38,8 +38,6 @@ sections:
     content:
       title: 'Publications'
       text: |-
-        Selected publications. For a fuller list, see my [Google Scholar](https://scholar.google.com/citations?user=Pv4qSeEAAAAJ&hl=en).
-
         <div class="varsha-publication-list">
           <div class="varsha-publication-year">2026</div>
 
