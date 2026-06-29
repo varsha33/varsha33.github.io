@@ -12,4 +12,7 @@ publication:
 peer_reviewed: false
 open_access: true
 featured: true
+hugoblox:
+  ids:
+    arxiv: 2601.17387
 ---

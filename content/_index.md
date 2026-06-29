@@ -20,9 +20,6 @@ sections:
         - **June 25, 2026**: Gave a talk at the RTG Neuroexplicit group: *Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors*.
         - **May 28, 2026**: New preprint out: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608).
         - **May 28, 2026**: New preprint out: [*MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization*](https://arxiv.org/abs/2605.29951).
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: 'About'
         education: ''

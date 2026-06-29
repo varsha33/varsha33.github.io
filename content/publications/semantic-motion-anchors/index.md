@@ -17,4 +17,7 @@ publication:
 peer_reviewed: false
 open_access: true
 featured: true
+hugoblox:
+  ids:
+    arxiv: 2605.30608
 ---

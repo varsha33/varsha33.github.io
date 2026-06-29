@@ -42,18 +42,81 @@ header a {
   margin-bottom: 0;
 }
 
-#publications img {
-  border-radius: 0.75rem;
+#publications .pub-list-item {
+  margin-bottom: 1.75rem;
+}
+
+.varsha-pub-item {
+  display: grid;
+  grid-template-columns: minmax(0, 220px) minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.varsha-pub-no-image {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.varsha-pub-thumb {
+  width: 220px;
+}
+
+.varsha-pub-thumb img {
+  width: 220px;
+  height: 145px;
   object-fit: cover;
+  border-radius: 0.85rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
-#publications .btn {
-  border-radius: 999px;
+.varsha-pub-title {
+  margin: 0 0 0.45rem;
+  font-size: 1.55rem;
+  line-height: 1.25;
+  font-weight: 700;
 }
 
-#publications .stream-item,
-#publications .pub-list-item,
+.varsha-pub-title a {
+  text-decoration: none;
+}
+
+.varsha-pub-authors {
+  margin-bottom: 0.45rem;
+  font-size: 1.25rem;
+}
+
+.varsha-pub-venue {
+  margin-bottom: 0.85rem;
+  font-size: 1.15rem;
+}
+
+.varsha-pub-year {
+  margin-left: 0.25rem;
+}
+
+.varsha-pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.varsha-pub-links .hb-attachment-link {
+  border-radius: 0.8rem;
+}
+
 #talks ul li,
 #teaching ul li {
   margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .varsha-pub-item {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .varsha-pub-thumb,
+  .varsha-pub-thumb img {
+    width: 100%;
+    height: auto;
+  }
 }
