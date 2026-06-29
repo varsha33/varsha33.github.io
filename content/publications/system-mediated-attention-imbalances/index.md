@@ -14,7 +14,5 @@ publication:
 peer_reviewed: false
 open_access: true
 featured: true
-hugoblox:
-  ids:
-    arxiv: 2601.12430
+url_preprint: https://arxiv.org/abs/2601.12430
 ---
