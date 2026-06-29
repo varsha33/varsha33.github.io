@@ -4,6 +4,7 @@ html {
 
 body {
   line-height: 1.7;
+  font-size: 1.05rem;
 }
 
 h1,
@@ -11,6 +12,11 @@ h2,
 h3,
 h4 {
   letter-spacing: -0.02em;
+}
+
+p,
+li {
+  font-size: 1.04rem;
 }
 
 section[id] {
@@ -26,6 +32,20 @@ main section,
 main .container,
 section .container {
   max-width: 1060px;
+}
+
+.home-section,
+.home-section .container,
+.markdown-body,
+.article-style {
+  text-align: left;
+}
+
+.home-section .section-heading,
+.home-section .section-subheading {
+  text-align: left;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .navbar a,
@@ -64,7 +84,7 @@ header a {
 
 .varsha-publication-title {
   margin: 0 0 0.2rem;
-  font-size: 1.14rem;
+  font-size: 1.18rem;
   font-weight: 600;
   line-height: 1.45;
 }
@@ -72,7 +92,7 @@ header a {
 .varsha-publication-authors,
 .varsha-publication-venue {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.03rem;
   line-height: 1.6;
 }
 
