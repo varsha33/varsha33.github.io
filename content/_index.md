@@ -179,16 +179,17 @@ sections:
 
         - **Tsan Tsai Chan** (Jan 2025 - Oct 2025): worked on [attention imbalances in vision-language models](https://arxiv.org/abs/2601.12430).
         - **Toshiki Nakai** (Aug 2025 - Jan 2026): worked on the [generation-step-aware framework for multilingual speech-text models](https://arxiv.org/abs/2601.17387).
-        - **Mohamad Salman** (Jan 2025 - Apr 2026): worked on [*Semantic Motion Anchors*](https://arxiv.org/abs/2605.30608), where he helped develop the anchor generation for the preprint.
+        - **Mohamad Salman** (Jan 2025 - Apr 2026): worked on [*Semantic Motion Anchors*](https://arxiv.org/abs/2605.30608), where he helped develop the semantic anchor generation.
 
         ### Currently Ongoing
 
-        - **Zhanna** (Mar 2025 - present): shortcut learning in VLMs.
-        - **Diana** (Mar 2025 - present): investigating irony understanding of VLMs.
+        - **Zhanna** (Mar 2025 - present): Pragmatic Incongruity in Large Vision Language Models.
+        - **Diana** (Mar 2025 - present): Investigating Irony Understanding in Large Vision Language Models.
+  
 
         ### Research Student Experience
 
-        - **Fan Wu**: working toward emotion understanding in VLMs.
+        - **Fan Wu**: Working Toward Emotion Understanding in VLMs.
 
         ### Teaching
 
@@ -215,7 +216,7 @@ sections:
         - Email: [vsuresh@lst.uni-saarland.de](mailto:vsuresh@lst.uni-saarland.de)
         - LinkedIn: [varsha-suresh-2bb773b1](https://www.linkedin.com/in/varsha-suresh-2bb773b1/)
         - Google Scholar: [profile](https://scholar.google.com/citations?user=Pv4qSeEAAAAJ&hl=en)
-        - CV: [Download PDF](/uploads/resume.pdf)
+  
     design:
       columns: '1'
 ---

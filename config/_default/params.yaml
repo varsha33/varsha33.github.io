@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Postdoctoral Researcher, Saarland University"
+    tagline: "Postdoctoral Researcher, Max Plank Institute for Informatics, Saarland Informatics Campus"
     # Site meta description for search engines and social sharing
-    description: "Varsha Suresh is a postdoctoral researcher at Saarland University working on multimodal interaction, gesture, discourse and language modeling, affective computing, and human-centered machine learning."
+    description: ""
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""
