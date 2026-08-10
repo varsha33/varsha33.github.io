@@ -11,7 +11,7 @@ sections:
     content:
       username: me
       text: |-
-        I am a postdoctoral researcher at Multimodal Language Processing Group at Max Plank Institute of Informatics headed by Prof. Dr. Vera Demberg. I am also affiliated to Department of Language Science and Technology at  Saarland University. My research focuses on multimodal language modelling and human-centered machine learning.
+        I am a postdoctoral researcher at Multimodal Language Processing Group at Max Plank Institute of Informatics headed by [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html). I am also affiliated to Department of Language Science and Technology at  Saarland University. My research focuses on multimodal language modelling and human-centered machine learning.
 
         I am particularly interested in how verbal and non-verbal signals interact, how multimodal systems reason about people and behavior, and how to build language and vision-language models that are both more grounded and more socially aware.
 
@@ -213,7 +213,7 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
-        - Email: [vsuresh@lst.uni-saarland.de](mailto:vsuresh@lst.uni-saarland.de)
+        - Email: [vsuresh@mpi-inf.mpg.de](mailto:vsuresh@mpi-inf.mpg.de)
         - LinkedIn: [varsha-suresh-2bb773b1](https://www.linkedin.com/in/varsha-suresh-2bb773b1/)
         - Google Scholar: [profile](https://scholar.google.com/citations?user=Pv4qSeEAAAAJ&hl=en)
   
