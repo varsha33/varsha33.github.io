@@ -26,12 +26,12 @@ links:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Pv4qSeEAAAAJ&hl=en
 
-interests:
-  - Multimodal Interaction
-  - Gesture and Discourse
-  - Language Modeling
-  - Affective Computing
-  - Human-Centered Machine Learning
+# interests:
+#   - Multimodal Interaction
+#   - Gesture and Discourse
+#   - Language Modeling
+#   - Affective Computing
+#   - Human-Centered Machine Learning
 
 education: []
 
