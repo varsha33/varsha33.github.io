@@ -11,15 +11,9 @@ sections:
     content:
       username: me
       text: |-
-        I am a postdoctoral researcher at Multimodal Language Processing Group at Max Plank Institute of Informatics headed by [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html). I am also affiliated to Department of Language Science and Technology at  Saarland University. My research focuses on multimodal language modelling and human-centered machine learning.
+        I am a postdoctoral researcher in the Multimodal Language Processing Group at the Max Planck Institute for Informatics, headed by [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html). I am also affiliated with the Department of Language Science and Technology at Saarland University. My research focuses on multimodal language modelling and human-centered machine learning.
 
         I am particularly interested in how verbal and non-verbal signals interact, how multimodal systems reason about people and behavior, and how to build language and vision-language models that are both more grounded and more socially aware.
-
-        ### News
-
-        - **June 25, 2026**: Gave a talk at the RTG Neuroexplicit group: *Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors*.
-        - **May 28, 2026**: New preprint out: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608).
-        - **May 28, 2026**: New preprint out: [*MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization*](https://arxiv.org/abs/2605.29951).
       headings:
         about: 'About'
         education: ''
@@ -34,6 +28,19 @@ sections:
         size: medium
         shape: rounded
   - block: markdown
+    id: news
+    content:
+      title: 'News'
+      subtitle: ''
+      text: |-
+        - **September 2026**: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608) accepted at **NeurIPS 2026**!
+        - **September 2026**: *Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?* accepted at the **MINT Workshop @ EMNLP 2026**.
+        - **June 25, 2026**: Gave a talk at the RTG Neuroexplicit group: *Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors*.
+        - **May 28, 2026**: New preprint out: [*Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures*](https://arxiv.org/abs/2605.30608).
+        - **May 28, 2026**: New preprint out: [*MuPHI: Learning Implicit Multimodal Harm Reasoning via Semantically Grounded Reward Optimization*](https://arxiv.org/abs/2605.29951).
+    design:
+      columns: '1'
+  - block: markdown
     id: publications
     content:
       title: 'Publications'
@@ -44,7 +51,13 @@ sections:
           <div class="varsha-publication-entry">
             <p class="varsha-publication-title">Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures</p>
             <p class="varsha-publication-authors">Varsha Suresh, Mohammad Mahdi Abootorabi, Mohamed Salman, M Hamza Mughal, Christian Theobalt, Ashwin Ram, Jürgen Steimle, Vera Demberg</p>
-            <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2605.30608">arXiv</a></p>
+            <p class="varsha-publication-venue"><em>NeurIPS</em>, 2026. <a href="https://arxiv.org/abs/2605.30608">arXiv</a></p>
+          </div>
+
+          <div class="varsha-publication-entry">
+            <p class="varsha-publication-title">Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</p>
+            <p class="varsha-publication-authors">Varsha Suresh, Divij Jain, Jia Liu, M Hamza Mughal, Vera Demberg</p>
+            <p class="varsha-publication-venue"><em>MINT Workshop @ EMNLP</em>, 2026.</p>
           </div>
 
           <div class="varsha-publication-entry">
@@ -116,7 +129,7 @@ sections:
           <div class="varsha-publication-entry">
             <p class="varsha-publication-title">Critically examining the Domain Generalizability of Facial Expression Recognition models</p>
             <p class="varsha-publication-authors">Varsha Suresh, Gerard Yeo, Desmond C. Ong</p>
-            <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2023. <a href="https://arxiv.org/abs/2106.15453">arXiv</a></p>
+            <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2023. <a href="https://arxiv.org/pdf/2106.15453">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-year">2022</div>
@@ -150,7 +163,7 @@ sections:
           <div class="varsha-publication-entry">
             <p class="varsha-publication-title">A systematic evaluation of domain adaptation in facial expression recognition</p>
             <p class="varsha-publication-authors">Yan San Kong, Varsha Suresh, Jonathan Soh, Desmond C. Ong</p>
-            <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2021. <a href="https://arxiv.org/abs/2106.15453">arXiv</a></p>
+            <p class="varsha-publication-venue"><em>arXiv preprint</em>, 2021. <a href="https://arxiv.org/abs/2106.15453v1">arXiv</a></p>
           </div>
 
           <div class="varsha-publication-entry">
@@ -179,7 +192,7 @@ sections:
 
         - **Tsan Tsai Chan** (Jan 2025 - Oct 2025): worked on [attention imbalances in vision-language models](https://arxiv.org/abs/2601.12430).
         - **Toshiki Nakai** (Aug 2025 - Jan 2026): worked on the [generation-step-aware framework for multilingual speech-text models](https://arxiv.org/abs/2601.17387).
-        - **Mohamad Salman** (Jan 2025 - Apr 2026): worked on [*Semantic Motion Anchors*](https://arxiv.org/abs/2605.30608), where he helped develop the semantic anchor generation.
+        - **Mohamed Salman** (Jan 2025 - Apr 2026): worked on [*Semantic Motion Anchors*](https://arxiv.org/abs/2605.30608), where he helped develop the semantic anchor generation.
 
         ### Currently Ongoing
 

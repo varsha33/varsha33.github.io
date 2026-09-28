@@ -19,7 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Postdoctoral Researcher, Max Plank Institute for Informatics, Saarland Informatics Campus"
+    tagline: "Postdoctoral Researcher, Max Planck Institute for Informatics, Saarland Informatics Campus"
     # Site meta description for search engines and social sharing
     description: ""
     # Social accounts (used for meta tags like Twitter Cards)

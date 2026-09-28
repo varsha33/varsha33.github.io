@@ -9,17 +9,19 @@ name:
   pronunciation: ''
 role: Postdoctoral Researcher
 bio: |
-  Varsha Suresh is a postdoctoral researcher at Saarland University working on
-  multimodal interaction, gesture, discourse and language modeling, affective
-  computing, and human-centered machine learning.
+  Varsha Suresh is a postdoctoral researcher at the Max Planck Institute for
+  Informatics working on multimodal interaction, gesture, discourse and language
+  modeling, affective computing, and human-centered machine learning.
 
 affiliations:
+  - name: Max Planck Institute for Informatics
+    url: https://www.mpi-inf.mpg.de/
   - name: Saarland University
     url: https://www.uni-saarland.de/
 
 links:
   - icon: at-symbol
-    url: mailto:vsuresh@lst.uni-saarland.de
+    url: mailto:vsuresh@mpi-inf.mpg.de
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/varsha-suresh-2bb773b1/
@@ -37,7 +39,7 @@ education: []
 
 experience:
   - role: Postdoctoral Researcher
-    org: Saarland University
+    org: Max Planck Institute for Informatics
     summary: |
       Researching multimodal interaction, gesture, discourse and language
       modeling, affective computing, and human-centered machine learning.
