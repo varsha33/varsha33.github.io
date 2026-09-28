@@ -118,3 +118,100 @@ header a {
 #teaching ul li {
   margin-bottom: 1rem;
 }
+
+/* Widen the publications section beyond the default prose width */
+#publications > .max-w-prose,
+#publications .prose {
+  max-width: 64rem;
+  width: 100%;
+}
+
+/* News heading inside the bio column, styled to match the "About" heading */
+.bio-text .varsha-bio-heading {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  scroll-margin-top: 5rem;
+}
+
+.bio-text .varsha-bio-heading-icon {
+  flex-shrink: 0;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+  background: var(--color-primary-100, #e0e7ff);
+  color: var(--color-primary-600, #4f46e5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bio-text .varsha-bio-heading-icon svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.bio-text .varsha-bio-heading h2 {
+  margin: 0;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: #111827;
+}
+
+/* Teaching & Supervision */
+#teaching > .max-w-prose,
+#teaching .prose {
+  max-width: 64rem;
+  width: 100%;
+}
+
+.varsha-subheading {
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6b7280;
+}
+
+.varsha-people > .varsha-subheading:first-child {
+  margin-top: 0.5rem;
+}
+
+.varsha-person {
+  padding: 0.65rem 0;
+}
+
+.varsha-person-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+}
+
+.varsha-person-name {
+  font-size: 1.08rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+.varsha-person-dates {
+  font-size: 0.92rem;
+  color: #6b7280;
+  white-space: nowrap;
+}
+
+.varsha-person-topic {
+  margin: 0.15rem 0 0;
+  font-size: 1rem;
+  line-height: 1.55;
+  color: rgba(0, 0, 0, 0.72);
+}

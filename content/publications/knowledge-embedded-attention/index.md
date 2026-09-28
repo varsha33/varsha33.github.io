@@ -5,10 +5,10 @@ authors:
   - Desmond C Ong
 date: "2021-01-01T00:00:00Z"
 publishDate: "2021-01-01T00:00:00Z"
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 publication:
-  name: "arXiv preprint"
-peer_reviewed: false
+  name: "2021 9th International Conference on Affective Computing and Intelligent Interaction (ACII)"
+peer_reviewed: true
 open_access: true
 featured: false
 url_preprint: https://arxiv.org/abs/2108.00194
