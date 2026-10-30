@@ -39,6 +39,7 @@ sections:
       title: 'News'
       text: |-
         <ul class="varsha-news-list">
+          <li class="varsha-news-item"><span class="varsha-news-date">Oct 2026</span><span class="varsha-news-text">Really happy to share that our paper <a href="https://probing-motion-tokenizer.github.io"><em>Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</em></a> received the <strong>Best Paper Award</strong> 🏆 at the <strong>MINT Workshop @ EMNLP 2026</strong> 🍃</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Sep 2026</span><span class="varsha-news-text"><a href="https://arxiv.org/abs/2605.30608"><em>Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures</em></a> accepted at <strong>NeurIPS 2026</strong>!</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Sep 2026</span><span class="varsha-news-text"><a href="https://probing-motion-tokenizer.github.io"><em>Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</em></a> accepted at the <strong>MINT Workshop @ EMNLP 2026</strong>.</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Jun 2026</span><span class="varsha-news-text">Gave a talk at the RTG Neuroexplicit group: <em>Beyond Transcript: From Understanding Non-Verbal Signals to Generating Meaningful Behaviors</em>.</span></li>
@@ -65,7 +66,7 @@ sections:
           <div class="varsha-publication-entry">
             <p class="varsha-publication-title"><a href="https://probing-motion-tokenizer.github.io">Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</a></p>
             <p class="varsha-publication-authors"><strong>Varsha Suresh</strong>, Divij Jain, Jia Liu, M Hamza Mughal, Vera Demberg</p>
-            <p class="varsha-publication-meta"><span class="varsha-venue">MINT Workshop @ EMNLP</span></p>
+            <p class="varsha-publication-meta"><span class="varsha-venue">MINT Workshop @ EMNLP</span><span class="varsha-award">Best Paper Award</span></p>
           </div>
 
           <div class="varsha-publication-entry">
