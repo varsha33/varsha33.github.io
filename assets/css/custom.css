@@ -263,6 +263,15 @@ header a {
   margin: 0.35rem 0;
 }
 
+.prose .varsha-about-text .varsha-callout {
+  margin: 1.25rem 0 0;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid var(--color-primary-500, #6366f1);
+  border-radius: 0 8px 8px 0;
+  background: var(--color-primary-50, #eef2ff);
+  font-size: 0.98rem;
+}
+
 .varsha-subtle {
   color: #6b7280;
 }

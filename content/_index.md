@@ -29,6 +29,7 @@ sections:
               <li><strong>Multimodal pragmatics and reasoning:</strong> probing how vision-language models handle sarcasm, irony, implicit harm, and other pragmatic phenomena, and diagnosing where and why they fall short.</li>
               <li><strong>Human-centred applications:</strong> from gesture coaching for public speaking to affective computing and fair facial expression recognition.</li>
             </ul>
+            <p class="varsha-callout"><strong>Looking for Master's students.</strong> I am looking for motivated Master's students in two areas: gesture and language modelling, and understanding the behaviour of vision-language models. If this sounds exciting, feel free to <a href="mailto:vsuresh@mpi-inf.mpg.de">reach out by email</a>.</p>
           </div>
         </div>
     design:
@@ -39,6 +40,7 @@ sections:
       title: 'News'
       text: |-
         <ul class="varsha-news-list">
+          <li class="varsha-news-item"><span class="varsha-news-date">Nov 2026</span><span class="varsha-news-text">Two papers accepted at <strong>EACL 2027</strong>: <a href="https://arxiv.org/abs/2608.09772"><em>PragMatch: Separating Pragmatic Incongruity from Cross-Modal Mismatch in Large Vision-Language Models</em></a> at the main conference (13% acceptance rate), and <a href="https://arxiv.org/abs/2601.17387"><em>Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech-Text Models</em></a> in Findings.</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Oct 2026</span><span class="varsha-news-text">Really happy to share that our paper <a href="https://probing-motion-tokenizer.github.io"><em>Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</em></a> received the <strong>Best Paper Award</strong> 🏆 at the <strong>MINT Workshop @ EMNLP 2026</strong> 🍃</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Sep 2026</span><span class="varsha-news-text"><a href="https://arxiv.org/abs/2605.30608"><em>Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures</em></a> accepted at <strong>NeurIPS 2026</strong>!</span></li>
           <li class="varsha-news-item"><span class="varsha-news-date">Sep 2026</span><span class="varsha-news-text"><a href="https://probing-motion-tokenizer.github.io"><em>Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?</em></a> accepted at the <strong>MINT Workshop @ EMNLP 2026</strong>.</span></li>
@@ -54,6 +56,20 @@ sections:
       title: 'Publications'
       text: |-
         <div class="varsha-publication-list">
+
+          <div class="varsha-publication-year">2027</div>
+
+          <div class="varsha-publication-entry">
+            <p class="varsha-publication-title"><a href="https://arxiv.org/abs/2608.09772">PragMatch: Separating Pragmatic Incongruity from Cross-Modal Mismatch in Large Vision-Language Models</a></p>
+            <p class="varsha-publication-authors">Zhanna Mukhametsharip, Vera Demberg, <strong>Varsha Suresh</strong></p>
+            <p class="varsha-publication-meta"><span class="varsha-venue">EACL</span><span class="varsha-venue-note">Main conference, 13% acceptance rate</span></p>
+          </div>
+
+          <div class="varsha-publication-entry">
+            <p class="varsha-publication-title"><a href="https://arxiv.org/abs/2601.17387">Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech-Text Models</a></p>
+            <p class="varsha-publication-authors">Toshiki Nakai, <strong>Varsha Suresh</strong>, Vera Demberg</p>
+            <p class="varsha-publication-meta"><span class="varsha-venue">Findings of EACL</span></p>
+          </div>
 
           <div class="varsha-publication-year">2026</div>
 
@@ -76,12 +92,6 @@ sections:
           </div>
 
           <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="https://arxiv.org/abs/2601.17387">Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech-Text Models</a></p>
-            <p class="varsha-publication-authors">Toshiki Nakai, <strong>Varsha Suresh</strong>, Vera Demberg</p>
-            <p class="varsha-publication-meta"><span class="varsha-venue">Preprint</span></p>
-          </div>
-
-          <div class="varsha-publication-entry">
             <p class="varsha-publication-title"><a href="https://arxiv.org/abs/2601.12430">System-Mediated Attention Imbalances Make Vision-Language Models Say Yes</a></p>
             <p class="varsha-publication-authors">Tsan Tsai Chan, <strong>Varsha Suresh</strong>, Anisha Saha, Michael Hahn, Vera Demberg</p>
             <p class="varsha-publication-meta"><span class="varsha-venue">Findings of ACL</span></p>
@@ -97,12 +107,6 @@ sections:
             <p class="varsha-publication-title"><a href="https://aclanthology.org/2026.lrec-1.769.pdf">MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection</a></p>
             <p class="varsha-publication-authors">Anisha Saha, <strong>Varsha Suresh</strong>, Timothy Hospedales, Vera Demberg</p>
             <p class="varsha-publication-meta"><span class="varsha-venue">LREC</span></p>
-          </div>
-
-          <div class="varsha-publication-entry">
-            <p class="varsha-publication-title"><a href="https://arxiv.org/abs/2608.09772">PragMatch: Separating Pragmatic Incongruity from Cross-Modal Mismatch in Large Vision-Language Models</a></p>
-            <p class="varsha-publication-authors">Zhanna Mukhametsharip, Vera Demberg, <strong>Varsha Suresh</strong></p>
-            <p class="varsha-publication-meta"><span class="varsha-venue">Preprint</span></p>
           </div>
 
           <div class="varsha-publication-entry">
@@ -213,11 +217,6 @@ sections:
           <div class="varsha-subheading">Current Master's Students</div>
 
           <div class="varsha-person">
-            <div class="varsha-person-head"><span class="varsha-person-name">Zhanna Mukhametsharip</span><span class="varsha-person-dates">Mar 2025 – present</span></div>
-            <p class="varsha-person-topic">Pragmatic incongruity in large vision-language models (<a href="https://arxiv.org/abs/2608.09772"><em>PragMatch</em></a>)</p>
-          </div>
-
-          <div class="varsha-person">
             <div class="varsha-person-head"><span class="varsha-person-name">Diana Pavelock</span><span class="varsha-person-dates">Mar 2025 – present</span></div>
             <p class="varsha-person-topic">Investigating irony understanding in large vision-language models</p>
           </div>
@@ -235,13 +234,18 @@ sections:
           <div class="varsha-subheading">Completed Master's Students</div>
 
           <div class="varsha-person">
+            <div class="varsha-person-head"><span class="varsha-person-name">Zhanna Mukhametsharip</span><span class="varsha-person-dates">Mar 2025 – Nov 2026</span></div>
+            <p class="varsha-person-topic">Pragmatic incongruity in large vision-language models (<a href="https://arxiv.org/abs/2608.09772"><em>PragMatch</em></a>, EACL 2027)</p>
+          </div>
+
+          <div class="varsha-person">
             <div class="varsha-person-head"><span class="varsha-person-name">Mohamed Salman</span><span class="varsha-person-dates">Jan 2025 – Apr 2026</span></div>
             <p class="varsha-person-topic">Semantic anchor generation for co-speech gestures (<a href="https://arxiv.org/abs/2605.30608"><em>Semantic Motion Anchors</em></a>, NeurIPS 2026)</p>
           </div>
 
           <div class="varsha-person">
             <div class="varsha-person-head"><span class="varsha-person-name">Toshiki Nakai</span><span class="varsha-person-dates">Aug 2025 – Jan 2026</span></div>
-            <p class="varsha-person-topic">Generation-step-aware cross-modal representation and control in multilingual speech-text models (<a href="https://arxiv.org/abs/2601.17387">arXiv</a>)</p>
+            <p class="varsha-person-topic">Generation-step-aware cross-modal representation and control in multilingual speech-text models (<a href="https://arxiv.org/abs/2601.17387"><em>Generation-Step-Aware Framework</em></a>, Findings of EACL 2027)</p>
           </div>
 
           <div class="varsha-person">
